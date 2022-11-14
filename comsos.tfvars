@@ -1,4 +1,4 @@
-cosmos_account_name = "samplecosmosacct202"
+cosmos_account_name = "<your cosmos account name>"
 sql_dbs = {
   one = {
     db_name           = "dbnoautoscale"
